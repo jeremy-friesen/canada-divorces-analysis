@@ -1,6 +1,5 @@
 # canada-divorces-analysis
 
-<html>
 <head><meta charset="utf-8" />
 <title>Divorces in Canada, Data Analysis</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -15750,7 +15749,3 @@ qp4QkeuAK4BqP6vzeZyaRvnrIjIJ9/9XX9x9AxqbQmVxKzemeawpGBPdSb+Au6PWLFV9KDsgIpfg
   </div>
 </body>
 
- 
-
-
-</html>
