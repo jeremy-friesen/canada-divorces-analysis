@@ -1,0 +1,651 @@
+REF_DATE,GEO,DGUID,Year of marriage,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2004,"Canada, place of occurrence",2016A000011124,2004,"Rate per 1,000 marriages",263,units ,0,v42139888,1.1,0.34,,,,2
+2004,"Canada, place of occurrence",2016A000011124,2003,"Rate per 1,000 marriages",263,units ,0,v42139889,1.2,3.89,,,,2
+2004,"Canada, place of occurrence",2016A000011124,2002,"Rate per 1,000 marriages",263,units ,0,v42139890,1.3,15.74,,,,2
+2004,"Canada, place of occurrence",2016A000011124,2001,"Rate per 1,000 marriages",263,units ,0,v42139891,1.4,26.08,,,,2
+2004,"Canada, place of occurrence",2016A000011124,2000,"Rate per 1,000 marriages",263,units ,0,v42139892,1.5,25.83,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1999,"Rate per 1,000 marriages",263,units ,0,v42139893,1.6,23.42,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1998,"Rate per 1,000 marriages",263,units ,0,v42139894,1.7,22.41,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1997,"Rate per 1,000 marriages",263,units ,0,v42139895,1.8,20.78,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1996,"Rate per 1,000 marriages",263,units ,0,v42139896,1.9,19.57,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1995,"Rate per 1,000 marriages",263,units ,0,v42139897,1.1,18.17,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1994,"Rate per 1,000 marriages",263,units ,0,v42139898,1.11,16.86,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1993,"Rate per 1,000 marriages",263,units ,0,v42139899,1.12,15.98,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1992,"Rate per 1,000 marriages",263,units ,0,v42139900,1.13,14.61,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1991,"Rate per 1,000 marriages",263,units ,0,v42139901,1.14,13.59,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1990,"Rate per 1,000 marriages",263,units ,0,v42139902,1.15,13.21,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1989,"Rate per 1,000 marriages",263,units ,0,v42139903,1.16,12.26,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1988,"Rate per 1,000 marriages",263,units ,0,v42139904,1.17,11.27,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1987,"Rate per 1,000 marriages",263,units ,0,v42139905,1.18,11.13,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1986,"Rate per 1,000 marriages",263,units ,0,v42139906,1.19,10.18,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1985,"Rate per 1,000 marriages",263,units ,0,v42139907,1.2,9.97,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1984,"Rate per 1,000 marriages",263,units ,0,v42139908,1.21,9.33,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1983,"Rate per 1,000 marriages",263,units ,0,v42139909,1.22,9.23,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1982,"Rate per 1,000 marriages",263,units ,0,v42139910,1.23,8.95,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1981,"Rate per 1,000 marriages",263,units ,0,v42139911,1.24,8.42,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1980,"Rate per 1,000 marriages",263,units ,0,v42139912,1.25,8.21,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1979,"Rate per 1,000 marriages",263,units ,0,v42139913,1.26,7.02,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1978,"Rate per 1,000 marriages",263,units ,0,v42139914,1.27,6.43,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1977,"Rate per 1,000 marriages",263,units ,0,v42139915,1.28,5.59,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1976,"Rate per 1,000 marriages",263,units ,0,v42139916,1.29,5.21,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1975,"Rate per 1,000 marriages",263,units ,0,v42139917,1.3,4.88,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1974,"Rate per 1,000 marriages",263,units ,0,v42139918,1.31,4.52,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1973,"Rate per 1,000 marriages",263,units ,0,v42139919,1.32,3.86,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1972,"Rate per 1,000 marriages",263,units ,0,v42139920,1.33,3.55,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1971,"Rate per 1,000 marriages",263,units ,0,v42139921,1.34,3.05,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1970,"Rate per 1,000 marriages",263,units ,0,v42139922,1.35,2.7,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1969,"Rate per 1,000 marriages",263,units ,0,v42139923,1.36,2.51,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1968,"Rate per 1,000 marriages",263,units ,0,v42139924,1.37,2.29,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1967,"Rate per 1,000 marriages",263,units ,0,v42139925,1.38,2.03,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1966,"Rate per 1,000 marriages",263,units ,0,v42139926,1.39,1.72,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1965,"Rate per 1,000 marriages",263,units ,0,v42139927,1.4,1.5,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1964,"Rate per 1,000 marriages",263,units ,0,v42139928,1.41,1.19,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1963,"Rate per 1,000 marriages",263,units ,0,v42139929,1.42,1.16,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1962,"Rate per 1,000 marriages",263,units ,0,v42139930,1.43,0.97,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1961,"Rate per 1,000 marriages",263,units ,0,v42139931,1.44,0.76,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1960,"Rate per 1,000 marriages",263,units ,0,v42139932,1.45,0.7,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1959,"Rate per 1,000 marriages",263,units ,0,v42139933,1.46,0.7,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1958,"Rate per 1,000 marriages",263,units ,0,v42139934,1.47,0.39,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1957,"Rate per 1,000 marriages",263,units ,0,v42139935,1.48,0.44,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1956,"Rate per 1,000 marriages",263,units ,0,v42139936,1.49,0.36,,,,2
+2004,"Canada, place of occurrence",2016A000011124,1955,"Rate per 1,000 marriages",263,units ,0,v42139937,1.5,0.27,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,2004,"Rate per 1,000 marriages",263,units ,0,v42139938,2.1,0,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,2003,"Rate per 1,000 marriages",263,units ,0,v42139939,2.2,0.7,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,2002,"Rate per 1,000 marriages",263,units ,0,v42139940,2.3,4.39,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,2001,"Rate per 1,000 marriages",263,units ,0,v42139941,2.4,7.42,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,2000,"Rate per 1,000 marriages",263,units ,0,v42139942,2.5,11.43,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1999,"Rate per 1,000 marriages",263,units ,0,v42139943,2.6,10.88,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1998,"Rate per 1,000 marriages",263,units ,0,v42139944,2.7,15.87,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1997,"Rate per 1,000 marriages",263,units ,0,v42139945,2.8,12.4,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1996,"Rate per 1,000 marriages",263,units ,0,v42139946,2.9,12.84,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1995,"Rate per 1,000 marriages",263,units ,0,v42139947,2.1,10.58,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1994,"Rate per 1,000 marriages",263,units ,0,v42139948,2.11,7.23,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1993,"Rate per 1,000 marriages",263,units ,0,v42139949,2.12,11.07,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1992,"Rate per 1,000 marriages",263,units ,0,v42139950,2.13,8.91,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1991,"Rate per 1,000 marriages",263,units ,0,v42139951,2.14,7.18,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1990,"Rate per 1,000 marriages",263,units ,0,v42139952,2.15,5.54,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1989,"Rate per 1,000 marriages",263,units ,0,v42139953,2.16,9.48,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1988,"Rate per 1,000 marriages",263,units ,0,v42139954,2.17,7.6,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1987,"Rate per 1,000 marriages",263,units ,0,v42139955,2.18,6.89,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1986,"Rate per 1,000 marriages",263,units ,0,v42139956,2.19,4.97,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1985,"Rate per 1,000 marriages",263,units ,0,v42139957,2.2,12.11,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1984,"Rate per 1,000 marriages",263,units ,0,v42139958,2.21,6.45,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1983,"Rate per 1,000 marriages",263,units ,0,v42139959,2.22,5.03,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1982,"Rate per 1,000 marriages",263,units ,0,v42139960,2.23,6.64,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1981,"Rate per 1,000 marriages",263,units ,0,v42139961,2.24,7.18,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1980,"Rate per 1,000 marriages",263,units ,0,v42139962,2.25,4.49,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1979,"Rate per 1,000 marriages",263,units ,0,v42139963,2.26,4.01,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1978,"Rate per 1,000 marriages",263,units ,0,v42139964,2.27,5.99,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1977,"Rate per 1,000 marriages",263,units ,0,v42139965,2.28,4.88,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1976,"Rate per 1,000 marriages",263,units ,0,v42139966,2.29,1.68,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1975,"Rate per 1,000 marriages",263,units ,0,v42139967,2.3,2.55,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1974,"Rate per 1,000 marriages",263,units ,0,v42139968,2.31,4.21,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1973,"Rate per 1,000 marriages",263,units ,0,v42139969,2.32,1.78,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1972,"Rate per 1,000 marriages",263,units ,0,v42139970,2.33,2.55,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1971,"Rate per 1,000 marriages",263,units ,0,v42139971,2.34,2.13,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1970,"Rate per 1,000 marriages",263,units ,0,v42139972,2.35,1.12,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1969,"Rate per 1,000 marriages",263,units ,0,v42139973,2.36,2.34,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1968,"Rate per 1,000 marriages",263,units ,0,v42139974,2.37,1.89,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1967,"Rate per 1,000 marriages",263,units ,0,v42139975,2.38,0.75,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1966,"Rate per 1,000 marriages",263,units ,0,v42139976,2.39,0.54,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1965,"Rate per 1,000 marriages",263,units ,0,v42139977,2.4,0.88,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1964,"Rate per 1,000 marriages",263,units ,0,v42139978,2.41,0.59,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1963,"Rate per 1,000 marriages",263,units ,0,v42139979,2.42,0,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1962,"Rate per 1,000 marriages",263,units ,0,v42139980,2.43,0.31,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1961,"Rate per 1,000 marriages",263,units ,0,v42139981,2.44,0,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1960,"Rate per 1,000 marriages",263,units ,0,v42139982,2.45,0,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1959,"Rate per 1,000 marriages",263,units ,0,v42139983,2.46,0.35,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1958,"Rate per 1,000 marriages",263,units ,0,v42139984,2.47,0,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1957,"Rate per 1,000 marriages",263,units ,0,v42139985,2.48,0.33,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1956,"Rate per 1,000 marriages",263,units ,0,v42139986,2.49,0.65,,,,2
+2004,"Newfoundland and Labrador, place of occurrence",2016A000210,1955,"Rate per 1,000 marriages",263,units ,0,v42139987,2.5,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,2004,"Rate per 1,000 marriages",263,units ,0,v42139988,3.1,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,2003,"Rate per 1,000 marriages",263,units ,0,v42139989,3.2,2.43,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,2002,"Rate per 1,000 marriages",263,units ,0,v42139990,3.3,4.44,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,2001,"Rate per 1,000 marriages",263,units ,0,v42139991,3.4,8.88,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,2000,"Rate per 1,000 marriages",263,units ,0,v42139992,3.5,12.47,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1999,"Rate per 1,000 marriages",263,units ,0,v42139993,3.6,12.88,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1998,"Rate per 1,000 marriages",263,units ,0,v42139994,3.7,14.74,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1997,"Rate per 1,000 marriages",263,units ,0,v42139995,3.8,14.84,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1996,"Rate per 1,000 marriages",263,units ,0,v42139996,3.9,9.74,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1995,"Rate per 1,000 marriages",263,units ,0,v42139997,3.1,12.54,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1994,"Rate per 1,000 marriages",263,units ,0,v42139998,3.11,10.59,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1993,"Rate per 1,000 marriages",263,units ,0,v42139999,3.12,14.69,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1992,"Rate per 1,000 marriages",263,units ,0,v42140000,3.13,17.65,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1991,"Rate per 1,000 marriages",263,units ,0,v42140001,3.14,12.56,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1990,"Rate per 1,000 marriages",263,units ,0,v42140002,3.15,13.05,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1989,"Rate per 1,000 marriages",263,units ,0,v42140003,3.16,16.68,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1988,"Rate per 1,000 marriages",263,units ,0,v42140004,3.17,11.4,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1987,"Rate per 1,000 marriages",263,units ,0,v42140005,3.18,11.9,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1986,"Rate per 1,000 marriages",263,units ,0,v42140006,3.19,12.37,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1985,"Rate per 1,000 marriages",263,units ,0,v42140007,3.2,13.6,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1984,"Rate per 1,000 marriages",263,units ,0,v42140008,3.21,9.46,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1983,"Rate per 1,000 marriages",263,units ,0,v42140009,3.22,5.34,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1982,"Rate per 1,000 marriages",263,units ,0,v42140010,3.23,11.7,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1981,"Rate per 1,000 marriages",263,units ,0,v42140011,3.24,5.89,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1980,"Rate per 1,000 marriages",263,units ,0,v42140012,3.25,7.45,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1979,"Rate per 1,000 marriages",263,units ,0,v42140013,3.26,6.72,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1978,"Rate per 1,000 marriages",263,units ,0,v42140014,3.27,6.39,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1977,"Rate per 1,000 marriages",263,units ,0,v42140015,3.28,3.36,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1976,"Rate per 1,000 marriages",263,units ,0,v42140016,3.29,4.12,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1975,"Rate per 1,000 marriages",263,units ,0,v42140017,3.3,3.21,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1974,"Rate per 1,000 marriages",263,units ,0,v42140018,3.31,1.01,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1973,"Rate per 1,000 marriages",263,units ,0,v42140019,3.32,1.97,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1972,"Rate per 1,000 marriages",263,units ,0,v42140020,3.33,2.96,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1971,"Rate per 1,000 marriages",263,units ,0,v42140021,3.34,1.04,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1970,"Rate per 1,000 marriages",263,units ,0,v42140022,3.35,3.29,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1969,"Rate per 1,000 marriages",263,units ,0,v42140023,3.36,2.3,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1968,"Rate per 1,000 marriages",263,units ,0,v42140024,3.37,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1967,"Rate per 1,000 marriages",263,units ,0,v42140025,3.38,6.23,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1966,"Rate per 1,000 marriages",263,units ,0,v42140026,3.39,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1965,"Rate per 1,000 marriages",263,units ,0,v42140027,3.4,4.21,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1964,"Rate per 1,000 marriages",263,units ,0,v42140028,3.41,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1963,"Rate per 1,000 marriages",263,units ,0,v42140029,3.42,1.46,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1962,"Rate per 1,000 marriages",263,units ,0,v42140030,3.43,1.48,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1961,"Rate per 1,000 marriages",263,units ,0,v42140031,3.44,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1960,"Rate per 1,000 marriages",263,units ,0,v42140032,3.45,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1959,"Rate per 1,000 marriages",263,units ,0,v42140033,3.46,1.56,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1958,"Rate per 1,000 marriages",263,units ,0,v42140034,3.47,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1957,"Rate per 1,000 marriages",263,units ,0,v42140035,3.48,1.59,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1956,"Rate per 1,000 marriages",263,units ,0,v42140036,3.49,0,,,,2
+2004,"Prince Edward Island, place of occurrence",2016A000211,1955,"Rate per 1,000 marriages",263,units ,0,v42140037,3.5,0,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,2004,"Rate per 1,000 marriages",263,units ,0,v42140038,4.1,0.21,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,2003,"Rate per 1,000 marriages",263,units ,0,v42140039,4.2,2.32,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,2002,"Rate per 1,000 marriages",263,units ,0,v42140040,4.3,6.53,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,2001,"Rate per 1,000 marriages",263,units ,0,v42140041,4.4,9.38,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,2000,"Rate per 1,000 marriages",263,units ,0,v42140042,4.5,15.95,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1999,"Rate per 1,000 marriages",263,units ,0,v42140043,4.6,14.6,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1998,"Rate per 1,000 marriages",263,units ,0,v42140044,4.7,14.22,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1997,"Rate per 1,000 marriages",263,units ,0,v42140045,4.8,15.65,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1996,"Rate per 1,000 marriages",263,units ,0,v42140046,4.9,15.76,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1995,"Rate per 1,000 marriages",263,units ,0,v42140047,4.1,18.95,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1994,"Rate per 1,000 marriages",263,units ,0,v42140048,4.11,16.19,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1993,"Rate per 1,000 marriages",263,units ,0,v42140049,4.12,14.81,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1992,"Rate per 1,000 marriages",263,units ,0,v42140050,4.13,12.63,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1991,"Rate per 1,000 marriages",263,units ,0,v42140051,4.14,12.83,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1990,"Rate per 1,000 marriages",263,units ,0,v42140052,4.15,14.88,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1989,"Rate per 1,000 marriages",263,units ,0,v42140053,4.16,13.47,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1988,"Rate per 1,000 marriages",263,units ,0,v42140054,4.17,8.99,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1987,"Rate per 1,000 marriages",263,units ,0,v42140055,4.18,9.86,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1986,"Rate per 1,000 marriages",263,units ,0,v42140056,4.19,9.62,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1985,"Rate per 1,000 marriages",263,units ,0,v42140057,4.2,7.93,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1984,"Rate per 1,000 marriages",263,units ,0,v42140058,4.21,8.38,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1983,"Rate per 1,000 marriages",263,units ,0,v42140059,4.22,10.15,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1982,"Rate per 1,000 marriages",263,units ,0,v42140060,4.23,7.4,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1981,"Rate per 1,000 marriages",263,units ,0,v42140061,4.24,7.39,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1980,"Rate per 1,000 marriages",263,units ,0,v42140062,4.25,6.33,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1979,"Rate per 1,000 marriages",263,units ,0,v42140063,4.26,6.65,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1978,"Rate per 1,000 marriages",263,units ,0,v42140064,4.27,5.18,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1977,"Rate per 1,000 marriages",263,units ,0,v42140065,4.28,5.39,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1976,"Rate per 1,000 marriages",263,units ,0,v42140066,4.29,5.38,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1975,"Rate per 1,000 marriages",263,units ,0,v42140067,4.3,4.82,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1974,"Rate per 1,000 marriages",263,units ,0,v42140068,4.31,4.08,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1973,"Rate per 1,000 marriages",263,units ,0,v42140069,4.32,5.77,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1972,"Rate per 1,000 marriages",263,units ,0,v42140070,4.33,3.02,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1971,"Rate per 1,000 marriages",263,units ,0,v42140071,4.34,1.89,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1970,"Rate per 1,000 marriages",263,units ,0,v42140072,4.35,2.79,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1969,"Rate per 1,000 marriages",263,units ,0,v42140073,4.36,2.28,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1968,"Rate per 1,000 marriages",263,units ,0,v42140074,4.37,2.39,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1967,"Rate per 1,000 marriages",263,units ,0,v42140075,4.38,1.94,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1966,"Rate per 1,000 marriages",263,units ,0,v42140076,4.39,1.37,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1965,"Rate per 1,000 marriages",263,units ,0,v42140077,4.4,0.9,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1964,"Rate per 1,000 marriages",263,units ,0,v42140078,4.41,0.75,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1963,"Rate per 1,000 marriages",263,units ,0,v42140079,4.42,1.17,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1962,"Rate per 1,000 marriages",263,units ,0,v42140080,4.43,1.52,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1961,"Rate per 1,000 marriages",263,units ,0,v42140081,4.44,0.76,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1960,"Rate per 1,000 marriages",263,units ,0,v42140082,4.45,0.19,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1959,"Rate per 1,000 marriages",263,units ,0,v42140083,4.46,0.19,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1958,"Rate per 1,000 marriages",263,units ,0,v42140084,4.47,0.19,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1957,"Rate per 1,000 marriages",263,units ,0,v42140085,4.48,0.19,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1956,"Rate per 1,000 marriages",263,units ,0,v42140086,4.49,0.36,,,,2
+2004,"Nova Scotia, place of occurrence",2016A000212,1955,"Rate per 1,000 marriages",263,units ,0,v42140087,4.5,0,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,2004,"Rate per 1,000 marriages",263,units ,0,v42140088,5.1,0,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,2003,"Rate per 1,000 marriages",263,units ,0,v42140089,5.2,2.15,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,2002,"Rate per 1,000 marriages",263,units ,0,v42140090,5.3,6.29,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,2001,"Rate per 1,000 marriages",263,units ,0,v42140091,5.4,9.73,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,2000,"Rate per 1,000 marriages",263,units ,0,v42140092,5.5,15.29,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1999,"Rate per 1,000 marriages",263,units ,0,v42140093,5.6,13.74,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1998,"Rate per 1,000 marriages",263,units ,0,v42140094,5.7,14.03,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1997,"Rate per 1,000 marriages",263,units ,0,v42140095,5.8,15.9,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1996,"Rate per 1,000 marriages",263,units ,0,v42140096,5.9,15.12,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1995,"Rate per 1,000 marriages",263,units ,0,v42140097,5.1,14.11,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1994,"Rate per 1,000 marriages",263,units ,0,v42140098,5.11,15.64,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1993,"Rate per 1,000 marriages",263,units ,0,v42140099,5.12,12.69,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1992,"Rate per 1,000 marriages",263,units ,0,v42140100,5.13,11.36,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1991,"Rate per 1,000 marriages",263,units ,0,v42140101,5.14,11.06,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1990,"Rate per 1,000 marriages",263,units ,0,v42140102,5.15,9.32,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1989,"Rate per 1,000 marriages",263,units ,0,v42140103,5.16,11.61,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1988,"Rate per 1,000 marriages",263,units ,0,v42140104,5.17,7.37,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1987,"Rate per 1,000 marriages",263,units ,0,v42140105,5.18,9.75,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1986,"Rate per 1,000 marriages",263,units ,0,v42140106,5.19,10.88,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1985,"Rate per 1,000 marriages",263,units ,0,v42140107,5.2,4.71,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1984,"Rate per 1,000 marriages",263,units ,0,v42140108,5.21,6.8,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1983,"Rate per 1,000 marriages",263,units ,0,v42140109,5.22,7.98,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1982,"Rate per 1,000 marriages",263,units ,0,v42140110,5.23,7.11,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1981,"Rate per 1,000 marriages",263,units ,0,v42140111,5.24,8.03,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1980,"Rate per 1,000 marriages",263,units ,0,v42140112,5.25,7.14,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1979,"Rate per 1,000 marriages",263,units ,0,v42140113,5.26,4.3,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1978,"Rate per 1,000 marriages",263,units ,0,v42140114,5.27,5.65,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1977,"Rate per 1,000 marriages",263,units ,0,v42140115,5.28,3.79,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1976,"Rate per 1,000 marriages",263,units ,0,v42140116,5.29,4.17,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1975,"Rate per 1,000 marriages",263,units ,0,v42140117,5.3,3.2,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1974,"Rate per 1,000 marriages",263,units ,0,v42140118,5.31,4.26,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1973,"Rate per 1,000 marriages",263,units ,0,v42140119,5.32,3.78,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1972,"Rate per 1,000 marriages",263,units ,0,v42140120,5.33,4.03,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1971,"Rate per 1,000 marriages",263,units ,0,v42140121,5.34,3.09,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1970,"Rate per 1,000 marriages",263,units ,0,v42140122,5.35,2.28,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1969,"Rate per 1,000 marriages",263,units ,0,v42140123,5.36,2.28,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1968,"Rate per 1,000 marriages",263,units ,0,v42140124,5.37,0.74,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1967,"Rate per 1,000 marriages",263,units ,0,v42140125,5.38,1.28,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1966,"Rate per 1,000 marriages",263,units ,0,v42140126,5.39,1.16,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1965,"Rate per 1,000 marriages",263,units ,0,v42140127,5.4,1.47,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1964,"Rate per 1,000 marriages",263,units ,0,v42140128,5.41,0.87,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1963,"Rate per 1,000 marriages",263,units ,0,v42140129,5.42,0.91,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1962,"Rate per 1,000 marriages",263,units ,0,v42140130,5.43,0.68,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1961,"Rate per 1,000 marriages",263,units ,0,v42140131,5.44,0.67,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1960,"Rate per 1,000 marriages",263,units ,0,v42140132,5.45,0.9,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1959,"Rate per 1,000 marriages",263,units ,0,v42140133,5.46,0.46,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1958,"Rate per 1,000 marriages",263,units ,0,v42140134,5.47,0.24,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1957,"Rate per 1,000 marriages",263,units ,0,v42140135,5.48,0.23,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1956,"Rate per 1,000 marriages",263,units ,0,v42140136,5.49,0.22,,,,2
+2004,"New Brunswick, place of occurrence",2016A000213,1955,"Rate per 1,000 marriages",263,units ,0,v42140137,5.5,0,,,,2
+2004,"Quebec, place of occurrence",2016A000224,2004,"Rate per 1,000 marriages",263,units ,0,v42140138,6.1,0.78,,,,2
+2004,"Quebec, place of occurrence",2016A000224,2003,"Rate per 1,000 marriages",263,units ,0,v42140139,6.2,6.95,,,,2
+2004,"Quebec, place of occurrence",2016A000224,2002,"Rate per 1,000 marriages",263,units ,0,v42140140,6.3,21.79,,,,2
+2004,"Quebec, place of occurrence",2016A000224,2001,"Rate per 1,000 marriages",263,units ,0,v42140141,6.4,31.74,,,,2
+2004,"Quebec, place of occurrence",2016A000224,2000,"Rate per 1,000 marriages",263,units ,0,v42140142,6.5,32.96,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1999,"Rate per 1,000 marriages",263,units ,0,v42140143,6.6,32.96,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1998,"Rate per 1,000 marriages",263,units ,0,v42140144,6.7,30.99,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1997,"Rate per 1,000 marriages",263,units ,0,v42140145,6.8,26.38,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1996,"Rate per 1,000 marriages",263,units ,0,v42140146,6.9,26.79,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1995,"Rate per 1,000 marriages",263,units ,0,v42140147,6.1,22.82,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1994,"Rate per 1,000 marriages",263,units ,0,v42140148,6.11,21.45,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1993,"Rate per 1,000 marriages",263,units ,0,v42140149,6.12,19.78,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1992,"Rate per 1,000 marriages",263,units ,0,v42140150,6.13,17.45,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1991,"Rate per 1,000 marriages",263,units ,0,v42140151,6.14,17.25,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1990,"Rate per 1,000 marriages",263,units ,0,v42140152,6.15,17,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1989,"Rate per 1,000 marriages",263,units ,0,v42140153,6.16,14.88,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1988,"Rate per 1,000 marriages",263,units ,0,v42140154,6.17,14.32,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1987,"Rate per 1,000 marriages",263,units ,0,v42140155,6.18,14.04,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1986,"Rate per 1,000 marriages",263,units ,0,v42140156,6.19,12.85,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1985,"Rate per 1,000 marriages",263,units ,0,v42140157,6.2,12.77,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1984,"Rate per 1,000 marriages",263,units ,0,v42140158,6.21,11.97,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1983,"Rate per 1,000 marriages",263,units ,0,v42140159,6.22,10.87,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1982,"Rate per 1,000 marriages",263,units ,0,v42140160,6.23,11.32,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1981,"Rate per 1,000 marriages",263,units ,0,v42140161,6.24,10.32,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1980,"Rate per 1,000 marriages",263,units ,0,v42140162,6.25,9.77,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1979,"Rate per 1,000 marriages",263,units ,0,v42140163,6.26,7.96,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1978,"Rate per 1,000 marriages",263,units ,0,v42140164,6.27,7.49,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1977,"Rate per 1,000 marriages",263,units ,0,v42140165,6.28,6.46,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1976,"Rate per 1,000 marriages",263,units ,0,v42140166,6.29,6.32,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1975,"Rate per 1,000 marriages",263,units ,0,v42140167,6.3,5.62,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1974,"Rate per 1,000 marriages",263,units ,0,v42140168,6.31,4.93,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1973,"Rate per 1,000 marriages",263,units ,0,v42140169,6.32,4.45,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1972,"Rate per 1,000 marriages",263,units ,0,v42140170,6.33,3.94,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1971,"Rate per 1,000 marriages",263,units ,0,v42140171,6.34,3.74,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1970,"Rate per 1,000 marriages",263,units ,0,v42140172,6.35,2.94,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1969,"Rate per 1,000 marriages",263,units ,0,v42140173,6.36,2.67,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1968,"Rate per 1,000 marriages",263,units ,0,v42140174,6.37,2.61,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1967,"Rate per 1,000 marriages",263,units ,0,v42140175,6.38,2.31,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1966,"Rate per 1,000 marriages",263,units ,0,v42140176,6.39,2.16,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1965,"Rate per 1,000 marriages",263,units ,0,v42140177,6.4,1.98,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1964,"Rate per 1,000 marriages",263,units ,0,v42140178,6.41,1.35,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1963,"Rate per 1,000 marriages",263,units ,0,v42140179,6.42,1.47,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1962,"Rate per 1,000 marriages",263,units ,0,v42140180,6.43,0.97,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1961,"Rate per 1,000 marriages",263,units ,0,v42140181,6.44,0.89,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1960,"Rate per 1,000 marriages",263,units ,0,v42140182,6.45,0.94,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1959,"Rate per 1,000 marriages",263,units ,0,v42140183,6.46,0.81,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1958,"Rate per 1,000 marriages",263,units ,0,v42140184,6.47,0.5,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1957,"Rate per 1,000 marriages",263,units ,0,v42140185,6.48,0.46,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1956,"Rate per 1,000 marriages",263,units ,0,v42140186,6.49,0.54,,,,2
+2004,"Quebec, place of occurrence",2016A000224,1955,"Rate per 1,000 marriages",263,units ,0,v42140187,6.5,0.45,,,,2
+2004,"Ontario, place of occurrence",2016A000235,2004,"Rate per 1,000 marriages",263,units ,0,v42140188,7.1,0.26,,,,2
+2004,"Ontario, place of occurrence",2016A000235,2003,"Rate per 1,000 marriages",263,units ,0,v42140189,7.2,3.36,,,,2
+2004,"Ontario, place of occurrence",2016A000235,2002,"Rate per 1,000 marriages",263,units ,0,v42140190,7.3,16.3,,,,2
+2004,"Ontario, place of occurrence",2016A000235,2001,"Rate per 1,000 marriages",263,units ,0,v42140191,7.4,27.7,,,,2
+2004,"Ontario, place of occurrence",2016A000235,2000,"Rate per 1,000 marriages",263,units ,0,v42140192,7.5,25.4,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1999,"Rate per 1,000 marriages",263,units ,0,v42140193,7.6,22.03,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1998,"Rate per 1,000 marriages",263,units ,0,v42140194,7.7,20.61,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1997,"Rate per 1,000 marriages",263,units ,0,v42140195,7.8,19.29,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1996,"Rate per 1,000 marriages",263,units ,0,v42140196,7.9,17.55,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1995,"Rate per 1,000 marriages",263,units ,0,v42140197,7.1,16.91,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1994,"Rate per 1,000 marriages",263,units ,0,v42140198,7.11,15.8,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1993,"Rate per 1,000 marriages",263,units ,0,v42140199,7.12,14.39,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1992,"Rate per 1,000 marriages",263,units ,0,v42140200,7.13,13.54,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1991,"Rate per 1,000 marriages",263,units ,0,v42140201,7.14,12.57,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1990,"Rate per 1,000 marriages",263,units ,0,v42140202,7.15,11.75,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1989,"Rate per 1,000 marriages",263,units ,0,v42140203,7.16,11.22,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1988,"Rate per 1,000 marriages",263,units ,0,v42140204,7.17,10.37,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1987,"Rate per 1,000 marriages",263,units ,0,v42140205,7.18,10.35,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1986,"Rate per 1,000 marriages",263,units ,0,v42140206,7.19,9.42,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1985,"Rate per 1,000 marriages",263,units ,0,v42140207,7.2,9.11,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1984,"Rate per 1,000 marriages",263,units ,0,v42140208,7.21,7.93,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1983,"Rate per 1,000 marriages",263,units ,0,v42140209,7.22,8.69,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1982,"Rate per 1,000 marriages",263,units ,0,v42140210,7.23,8.41,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1981,"Rate per 1,000 marriages",263,units ,0,v42140211,7.24,7.63,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1980,"Rate per 1,000 marriages",263,units ,0,v42140212,7.25,7.6,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1979,"Rate per 1,000 marriages",263,units ,0,v42140213,7.26,6.43,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1978,"Rate per 1,000 marriages",263,units ,0,v42140214,7.27,5.48,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1977,"Rate per 1,000 marriages",263,units ,0,v42140215,7.28,5.14,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1976,"Rate per 1,000 marriages",263,units ,0,v42140216,7.29,4.86,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1975,"Rate per 1,000 marriages",263,units ,0,v42140217,7.3,4.63,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1974,"Rate per 1,000 marriages",263,units ,0,v42140218,7.31,4.29,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1973,"Rate per 1,000 marriages",263,units ,0,v42140219,7.32,3.59,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1972,"Rate per 1,000 marriages",263,units ,0,v42140220,7.33,3.45,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1971,"Rate per 1,000 marriages",263,units ,0,v42140221,7.34,2.93,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1970,"Rate per 1,000 marriages",263,units ,0,v42140222,7.35,2.37,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1969,"Rate per 1,000 marriages",263,units ,0,v42140223,7.36,2.41,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1968,"Rate per 1,000 marriages",263,units ,0,v42140224,7.37,2.03,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1967,"Rate per 1,000 marriages",263,units ,0,v42140225,7.38,2.06,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1966,"Rate per 1,000 marriages",263,units ,0,v42140226,7.39,1.43,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1965,"Rate per 1,000 marriages",263,units ,0,v42140227,7.4,1.42,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1964,"Rate per 1,000 marriages",263,units ,0,v42140228,7.41,1.09,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1963,"Rate per 1,000 marriages",263,units ,0,v42140229,7.42,1.1,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1962,"Rate per 1,000 marriages",263,units ,0,v42140230,7.43,1.06,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1961,"Rate per 1,000 marriages",263,units ,0,v42140231,7.44,0.63,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1960,"Rate per 1,000 marriages",263,units ,0,v42140232,7.45,0.57,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1959,"Rate per 1,000 marriages",263,units ,0,v42140233,7.46,0.64,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1958,"Rate per 1,000 marriages",263,units ,0,v42140234,7.47,0.51,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1957,"Rate per 1,000 marriages",263,units ,0,v42140235,7.48,0.38,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1956,"Rate per 1,000 marriages",263,units ,0,v42140236,7.49,0.24,,,,2
+2004,"Ontario, place of occurrence",2016A000235,1955,"Rate per 1,000 marriages",263,units ,0,v42140237,7.5,0.29,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,2004,"Rate per 1,000 marriages",263,units ,0,v42140238,8.1,0.17,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,2003,"Rate per 1,000 marriages",263,units ,0,v42140239,8.2,1.24,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,2002,"Rate per 1,000 marriages",263,units ,0,v42140240,8.3,8.81,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,2001,"Rate per 1,000 marriages",263,units ,0,v42140241,8.4,16.6,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,2000,"Rate per 1,000 marriages",263,units ,0,v42140242,8.5,21.34,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1999,"Rate per 1,000 marriages",263,units ,0,v42140243,8.6,19.47,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1998,"Rate per 1,000 marriages",263,units ,0,v42140244,8.7,21.6,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1997,"Rate per 1,000 marriages",263,units ,0,v42140245,8.8,18.54,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1996,"Rate per 1,000 marriages",263,units ,0,v42140246,8.9,18.15,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1995,"Rate per 1,000 marriages",263,units ,0,v42140247,8.1,14.03,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1994,"Rate per 1,000 marriages",263,units ,0,v42140248,8.11,16.56,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1993,"Rate per 1,000 marriages",263,units ,0,v42140249,8.12,12,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1992,"Rate per 1,000 marriages",263,units ,0,v42140250,8.13,13.34,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1991,"Rate per 1,000 marriages",263,units ,0,v42140251,8.14,12.09,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1990,"Rate per 1,000 marriages",263,units ,0,v42140252,8.15,10.83,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1989,"Rate per 1,000 marriages",263,units ,0,v42140253,8.16,9.11,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1988,"Rate per 1,000 marriages",263,units ,0,v42140254,8.17,9.87,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1987,"Rate per 1,000 marriages",263,units ,0,v42140255,8.18,9.64,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1986,"Rate per 1,000 marriages",263,units ,0,v42140256,8.19,7.55,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1985,"Rate per 1,000 marriages",263,units ,0,v42140257,8.2,8.68,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1984,"Rate per 1,000 marriages",263,units ,0,v42140258,8.21,6.32,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1983,"Rate per 1,000 marriages",263,units ,0,v42140259,8.22,6.54,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1982,"Rate per 1,000 marriages",263,units ,0,v42140260,8.23,6.78,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1981,"Rate per 1,000 marriages",263,units ,0,v42140261,8.24,6.65,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1980,"Rate per 1,000 marriages",263,units ,0,v42140262,8.25,6.87,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1979,"Rate per 1,000 marriages",263,units ,0,v42140263,8.26,6.18,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1978,"Rate per 1,000 marriages",263,units ,0,v42140264,8.27,4.25,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1977,"Rate per 1,000 marriages",263,units ,0,v42140265,8.28,5.1,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1976,"Rate per 1,000 marriages",263,units ,0,v42140266,8.29,3.14,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1975,"Rate per 1,000 marriages",263,units ,0,v42140267,8.3,4.26,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1974,"Rate per 1,000 marriages",263,units ,0,v42140268,8.31,2.49,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1973,"Rate per 1,000 marriages",263,units ,0,v42140269,8.32,2.18,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1972,"Rate per 1,000 marriages",263,units ,0,v42140270,8.33,2.18,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1971,"Rate per 1,000 marriages",263,units ,0,v42140271,8.34,2.3,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1970,"Rate per 1,000 marriages",263,units ,0,v42140272,8.35,1.11,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1969,"Rate per 1,000 marriages",263,units ,0,v42140273,8.36,2.48,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1968,"Rate per 1,000 marriages",263,units ,0,v42140274,8.37,1.09,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1967,"Rate per 1,000 marriages",263,units ,0,v42140275,8.38,1.76,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1966,"Rate per 1,000 marriages",263,units ,0,v42140276,8.39,0.96,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1965,"Rate per 1,000 marriages",263,units ,0,v42140277,8.4,0.43,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1964,"Rate per 1,000 marriages",263,units ,0,v42140278,8.41,0.74,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1963,"Rate per 1,000 marriages",263,units ,0,v42140279,8.42,0.45,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1962,"Rate per 1,000 marriages",263,units ,0,v42140280,8.43,0.63,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1961,"Rate per 1,000 marriages",263,units ,0,v42140281,8.44,0.61,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1960,"Rate per 1,000 marriages",263,units ,0,v42140282,8.45,0,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1959,"Rate per 1,000 marriages",263,units ,0,v42140283,8.46,0.45,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1958,"Rate per 1,000 marriages",263,units ,0,v42140284,8.47,0.31,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1957,"Rate per 1,000 marriages",263,units ,0,v42140285,8.48,0.15,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1956,"Rate per 1,000 marriages",263,units ,0,v42140286,8.49,0,,,,2
+2004,"Manitoba, place of occurrence",2016A000246,1955,"Rate per 1,000 marriages",263,units ,0,v42140287,8.5,0,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,2004,"Rate per 1,000 marriages",263,units ,0,v42140288,9.1,0.2,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,2003,"Rate per 1,000 marriages",263,units ,0,v42140289,9.2,2.81,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,2002,"Rate per 1,000 marriages",263,units ,0,v42140290,9.3,8.88,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,2001,"Rate per 1,000 marriages",263,units ,0,v42140291,9.4,16.6,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,2000,"Rate per 1,000 marriages",263,units ,0,v42140292,9.5,19.42,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1999,"Rate per 1,000 marriages",263,units ,0,v42140293,9.6,16.73,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1998,"Rate per 1,000 marriages",263,units ,0,v42140294,9.7,18.29,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1997,"Rate per 1,000 marriages",263,units ,0,v42140295,9.8,18.22,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1996,"Rate per 1,000 marriages",263,units ,0,v42140296,9.9,14.99,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1995,"Rate per 1,000 marriages",263,units ,0,v42140297,9.1,12.24,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1994,"Rate per 1,000 marriages",263,units ,0,v42140298,9.11,11.07,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1993,"Rate per 1,000 marriages",263,units ,0,v42140299,9.12,10.64,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1992,"Rate per 1,000 marriages",263,units ,0,v42140300,9.13,11.48,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1991,"Rate per 1,000 marriages",263,units ,0,v42140301,9.14,12.66,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1990,"Rate per 1,000 marriages",263,units ,0,v42140302,9.15,9.79,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1989,"Rate per 1,000 marriages",263,units ,0,v42140303,9.16,9.34,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1988,"Rate per 1,000 marriages",263,units ,0,v42140304,9.17,8.42,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1987,"Rate per 1,000 marriages",263,units ,0,v42140305,9.18,6.86,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1986,"Rate per 1,000 marriages",263,units ,0,v42140306,9.19,3.52,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1985,"Rate per 1,000 marriages",263,units ,0,v42140307,9.2,7.15,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1984,"Rate per 1,000 marriages",263,units ,0,v42140308,9.21,7.49,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1983,"Rate per 1,000 marriages",263,units ,0,v42140309,9.22,5.86,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1982,"Rate per 1,000 marriages",263,units ,0,v42140310,9.23,4.94,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1981,"Rate per 1,000 marriages",263,units ,0,v42140311,9.24,5.46,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1980,"Rate per 1,000 marriages",263,units ,0,v42140312,9.25,7.67,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1979,"Rate per 1,000 marriages",263,units ,0,v42140313,9.26,6.19,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1978,"Rate per 1,000 marriages",263,units ,0,v42140314,9.27,5.74,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1977,"Rate per 1,000 marriages",263,units ,0,v42140315,9.28,5.53,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1976,"Rate per 1,000 marriages",263,units ,0,v42140316,9.29,4.1,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1975,"Rate per 1,000 marriages",263,units ,0,v42140317,9.3,3.47,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1974,"Rate per 1,000 marriages",263,units ,0,v42140318,9.31,3.88,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1973,"Rate per 1,000 marriages",263,units ,0,v42140319,9.32,2.29,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1972,"Rate per 1,000 marriages",263,units ,0,v42140320,9.33,1.9,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1971,"Rate per 1,000 marriages",263,units ,0,v42140321,9.34,1.28,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1970,"Rate per 1,000 marriages",263,units ,0,v42140322,9.35,2.73,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1969,"Rate per 1,000 marriages",263,units ,0,v42140323,9.36,1.04,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1968,"Rate per 1,000 marriages",263,units ,0,v42140324,9.37,1.29,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1967,"Rate per 1,000 marriages",263,units ,0,v42140325,9.38,1.32,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1966,"Rate per 1,000 marriages",263,units ,0,v42140326,9.39,1.29,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1965,"Rate per 1,000 marriages",263,units ,0,v42140327,9.4,1.18,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1964,"Rate per 1,000 marriages",263,units ,0,v42140328,9.41,1.41,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1963,"Rate per 1,000 marriages",263,units ,0,v42140329,9.42,0.48,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1962,"Rate per 1,000 marriages",263,units ,0,v42140330,9.43,0.66,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1961,"Rate per 1,000 marriages",263,units ,0,v42140331,9.44,0.65,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1960,"Rate per 1,000 marriages",263,units ,0,v42140332,9.45,0.48,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1959,"Rate per 1,000 marriages",263,units ,0,v42140333,9.46,0.31,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1958,"Rate per 1,000 marriages",263,units ,0,v42140334,9.47,0,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1957,"Rate per 1,000 marriages",263,units ,0,v42140335,9.48,0.15,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1956,"Rate per 1,000 marriages",263,units ,0,v42140336,9.49,0.16,,,,2
+2004,"Saskatchewan, place of occurrence",2016A000247,1955,"Rate per 1,000 marriages",263,units ,0,v42140337,9.5,0.31,,,,2
+2004,"Alberta, place of occurrence",2016A000248,2004,"Rate per 1,000 marriages",263,units ,0,v42140338,10.1,0.23,,,,2
+2004,"Alberta, place of occurrence",2016A000248,2003,"Rate per 1,000 marriages",263,units ,0,v42140339,10.2,4.6,,,,2
+2004,"Alberta, place of occurrence",2016A000248,2002,"Rate per 1,000 marriages",263,units ,0,v42140340,10.3,16.07,,,,2
+2004,"Alberta, place of occurrence",2016A000248,2001,"Rate per 1,000 marriages",263,units ,0,v42140341,10.4,25.99,,,,2
+2004,"Alberta, place of occurrence",2016A000248,2000,"Rate per 1,000 marriages",263,units ,0,v42140342,10.5,28.62,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1999,"Rate per 1,000 marriages",263,units ,0,v42140343,10.6,26.72,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1998,"Rate per 1,000 marriages",263,units ,0,v42140344,10.7,23.8,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1997,"Rate per 1,000 marriages",263,units ,0,v42140345,10.8,25.15,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1996,"Rate per 1,000 marriages",263,units ,0,v42140346,10.9,22.91,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1995,"Rate per 1,000 marriages",263,units ,0,v42140347,10.1,20.51,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1994,"Rate per 1,000 marriages",263,units ,0,v42140348,10.11,18.57,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1993,"Rate per 1,000 marriages",263,units ,0,v42140349,10.12,19.15,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1992,"Rate per 1,000 marriages",263,units ,0,v42140350,10.13,17.96,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1991,"Rate per 1,000 marriages",263,units ,0,v42140351,10.14,14.13,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1990,"Rate per 1,000 marriages",263,units ,0,v42140352,10.15,14.59,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1989,"Rate per 1,000 marriages",263,units ,0,v42140353,10.16,13.93,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1988,"Rate per 1,000 marriages",263,units ,0,v42140354,10.17,13.39,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1987,"Rate per 1,000 marriages",263,units ,0,v42140355,10.18,12.02,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1986,"Rate per 1,000 marriages",263,units ,0,v42140356,10.19,12.01,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1985,"Rate per 1,000 marriages",263,units ,0,v42140357,10.2,9.62,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1984,"Rate per 1,000 marriages",263,units ,0,v42140358,10.21,10.82,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1983,"Rate per 1,000 marriages",263,units ,0,v42140359,10.22,9.68,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1982,"Rate per 1,000 marriages",263,units ,0,v42140360,10.23,9.68,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1981,"Rate per 1,000 marriages",263,units ,0,v42140361,10.24,8.08,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1980,"Rate per 1,000 marriages",263,units ,0,v42140362,10.25,8.74,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1979,"Rate per 1,000 marriages",263,units ,0,v42140363,10.26,7.58,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1978,"Rate per 1,000 marriages",263,units ,0,v42140364,10.27,7.82,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1977,"Rate per 1,000 marriages",263,units ,0,v42140365,10.28,5.9,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1976,"Rate per 1,000 marriages",263,units ,0,v42140366,10.29,6.03,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1975,"Rate per 1,000 marriages",263,units ,0,v42140367,10.3,4.62,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1974,"Rate per 1,000 marriages",263,units ,0,v42140368,10.31,5.45,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1973,"Rate per 1,000 marriages",263,units ,0,v42140369,10.32,3.93,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1972,"Rate per 1,000 marriages",263,units ,0,v42140370,10.33,4.16,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1971,"Rate per 1,000 marriages",263,units ,0,v42140371,10.34,2.75,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1970,"Rate per 1,000 marriages",263,units ,0,v42140372,10.35,3.47,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1969,"Rate per 1,000 marriages",263,units ,0,v42140373,10.36,3.03,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1968,"Rate per 1,000 marriages",263,units ,0,v42140374,10.37,3.15,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1967,"Rate per 1,000 marriages",263,units ,0,v42140375,10.38,1.86,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1966,"Rate per 1,000 marriages",263,units ,0,v42140376,10.39,2.36,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1965,"Rate per 1,000 marriages",263,units ,0,v42140377,10.4,0.89,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1964,"Rate per 1,000 marriages",263,units ,0,v42140378,10.41,1.03,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1963,"Rate per 1,000 marriages",263,units ,0,v42140379,10.42,1.28,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1962,"Rate per 1,000 marriages",263,units ,0,v42140380,10.43,0.58,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1961,"Rate per 1,000 marriages",263,units ,0,v42140381,10.44,1.15,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1960,"Rate per 1,000 marriages",263,units ,0,v42140382,10.45,1.24,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1959,"Rate per 1,000 marriages",263,units ,0,v42140383,10.46,0.58,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1958,"Rate per 1,000 marriages",263,units ,0,v42140384,10.47,0.1,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1957,"Rate per 1,000 marriages",263,units ,0,v42140385,10.48,0.69,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1956,"Rate per 1,000 marriages",263,units ,0,v42140386,10.49,0.6,,,,2
+2004,"Alberta, place of occurrence",2016A000248,1955,"Rate per 1,000 marriages",263,units ,0,v42140387,10.5,0.3,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,2004,"Rate per 1,000 marriages",263,units ,0,v42140388,11.1,0.47,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,2003,"Rate per 1,000 marriages",263,units ,0,v42140389,11.2,3.91,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,2002,"Rate per 1,000 marriages",263,units ,0,v42140390,11.3,17.04,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,2001,"Rate per 1,000 marriages",263,units ,0,v42140391,11.4,30.79,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,2000,"Rate per 1,000 marriages",263,units ,0,v42140392,11.5,27.12,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1999,"Rate per 1,000 marriages",263,units ,0,v42140393,11.6,24.47,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1998,"Rate per 1,000 marriages",263,units ,0,v42140394,11.7,23.82,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1997,"Rate per 1,000 marriages",263,units ,0,v42140395,11.8,20.46,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1996,"Rate per 1,000 marriages",263,units ,0,v42140396,11.9,19.97,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1995,"Rate per 1,000 marriages",263,units ,0,v42140397,11.1,19.66,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1994,"Rate per 1,000 marriages",263,units ,0,v42140398,11.11,17.1,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1993,"Rate per 1,000 marriages",263,units ,0,v42140399,11.12,17.87,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1992,"Rate per 1,000 marriages",263,units ,0,v42140400,11.13,15.03,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1991,"Rate per 1,000 marriages",263,units ,0,v42140401,11.14,14.22,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1990,"Rate per 1,000 marriages",263,units ,0,v42140402,11.15,14.91,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1989,"Rate per 1,000 marriages",263,units ,0,v42140403,11.16,12.55,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1988,"Rate per 1,000 marriages",263,units ,0,v42140404,11.17,11.45,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1987,"Rate per 1,000 marriages",263,units ,0,v42140405,11.18,12.01,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1986,"Rate per 1,000 marriages",263,units ,0,v42140406,11.19,10.95,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1985,"Rate per 1,000 marriages",263,units ,0,v42140407,11.2,11.35,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1984,"Rate per 1,000 marriages",263,units ,0,v42140408,11.21,11.16,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1983,"Rate per 1,000 marriages",263,units ,0,v42140409,11.22,10.76,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1982,"Rate per 1,000 marriages",263,units ,0,v42140410,11.23,9.15,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1981,"Rate per 1,000 marriages",263,units ,0,v42140411,11.24,9.88,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1980,"Rate per 1,000 marriages",263,units ,0,v42140412,11.25,8.69,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1979,"Rate per 1,000 marriages",263,units ,0,v42140413,11.26,8.24,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1978,"Rate per 1,000 marriages",263,units ,0,v42140414,11.27,7.67,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1977,"Rate per 1,000 marriages",263,units ,0,v42140415,11.28,5.77,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1976,"Rate per 1,000 marriages",263,units ,0,v42140416,11.29,5.34,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1975,"Rate per 1,000 marriages",263,units ,0,v42140417,11.3,6.09,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1974,"Rate per 1,000 marriages",263,units ,0,v42140418,11.31,5.2,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1973,"Rate per 1,000 marriages",263,units ,0,v42140419,11.32,4.55,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1972,"Rate per 1,000 marriages",263,units ,0,v42140420,11.33,3.97,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1971,"Rate per 1,000 marriages",263,units ,0,v42140421,11.34,3.73,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1970,"Rate per 1,000 marriages",263,units ,0,v42140422,11.35,3.85,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1969,"Rate per 1,000 marriages",263,units ,0,v42140423,11.36,2.79,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1968,"Rate per 1,000 marriages",263,units ,0,v42140424,11.37,3.43,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1967,"Rate per 1,000 marriages",263,units ,0,v42140425,11.38,2.18,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1966,"Rate per 1,000 marriages",263,units ,0,v42140426,11.39,2.25,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1965,"Rate per 1,000 marriages",263,units ,0,v42140427,11.4,1.83,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1964,"Rate per 1,000 marriages",263,units ,0,v42140428,11.41,1.97,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1963,"Rate per 1,000 marriages",263,units ,0,v42140429,11.42,1.46,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1962,"Rate per 1,000 marriages",263,units ,0,v42140430,11.43,1.43,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1961,"Rate per 1,000 marriages",263,units ,0,v42140431,11.44,0.91,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1960,"Rate per 1,000 marriages",263,units ,0,v42140432,11.45,0.8,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1959,"Rate per 1,000 marriages",263,units ,0,v42140433,11.46,1.43,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1958,"Rate per 1,000 marriages",263,units ,0,v42140434,11.47,0.33,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1957,"Rate per 1,000 marriages",263,units ,0,v42140435,11.48,0.79,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1956,"Rate per 1,000 marriages",263,units ,0,v42140436,11.49,0.42,,,,2
+2004,"British Columbia, place of occurrence",2016A000259,1955,"Rate per 1,000 marriages",263,units ,0,v42140437,11.5,0.09,,,,2
+2004,"Yukon, place of occurrence",2016A000260,2004,"Rate per 1,000 marriages",263,units ,0,v42140438,12.1,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,2003,"Rate per 1,000 marriages",263,units ,0,v42140439,12.2,6.33,,,,2
+2004,"Yukon, place of occurrence",2016A000260,2002,"Rate per 1,000 marriages",263,units ,0,v42140440,12.3,27.97,,,,2
+2004,"Yukon, place of occurrence",2016A000260,2001,"Rate per 1,000 marriages",263,units ,0,v42140441,12.4,40.82,,,,2
+2004,"Yukon, place of occurrence",2016A000260,2000,"Rate per 1,000 marriages",263,units ,0,v42140442,12.5,38.71,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1999,"Rate per 1,000 marriages",263,units ,0,v42140443,12.6,12.42,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1998,"Rate per 1,000 marriages",263,units ,0,v42140444,12.7,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1997,"Rate per 1,000 marriages",263,units ,0,v42140445,12.8,17.96,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1996,"Rate per 1,000 marriages",263,units ,0,v42140446,12.9,25.38,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1995,"Rate per 1,000 marriages",263,units ,0,v42140447,12.1,24.15,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1994,"Rate per 1,000 marriages",263,units ,0,v42140448,12.11,11.83,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1993,"Rate per 1,000 marriages",263,units ,0,v42140449,12.12,5.56,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1992,"Rate per 1,000 marriages",263,units ,0,v42140450,12.13,13.57,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1991,"Rate per 1,000 marriages",263,units ,0,v42140451,12.14,5.1,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1990,"Rate per 1,000 marriages",263,units ,0,v42140452,12.15,9.17,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1989,"Rate per 1,000 marriages",263,units ,0,v42140453,12.16,9.35,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1988,"Rate per 1,000 marriages",263,units ,0,v42140454,12.17,14.35,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1987,"Rate per 1,000 marriages",263,units ,0,v42140455,12.18,10.58,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1986,"Rate per 1,000 marriages",263,units ,0,v42140456,12.19,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1985,"Rate per 1,000 marriages",263,units ,0,v42140457,12.2,5.41,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1984,"Rate per 1,000 marriages",263,units ,0,v42140458,12.21,4.72,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1983,"Rate per 1,000 marriages",263,units ,0,v42140459,12.22,12.35,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1982,"Rate per 1,000 marriages",263,units ,0,v42140460,12.23,4.44,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1981,"Rate per 1,000 marriages",263,units ,0,v42140461,12.24,17.02,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1980,"Rate per 1,000 marriages",263,units ,0,v42140462,12.25,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1979,"Rate per 1,000 marriages",263,units ,0,v42140463,12.26,11.05,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1978,"Rate per 1,000 marriages",263,units ,0,v42140464,12.27,10.31,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1977,"Rate per 1,000 marriages",263,units ,0,v42140465,12.28,4.9,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1976,"Rate per 1,000 marriages",263,units ,0,v42140466,12.29,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1975,"Rate per 1,000 marriages",263,units ,0,v42140467,12.3,4.98,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1974,"Rate per 1,000 marriages",263,units ,0,v42140468,12.31,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1973,"Rate per 1,000 marriages",263,units ,0,v42140469,12.32,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1972,"Rate per 1,000 marriages",263,units ,0,v42140470,12.33,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1971,"Rate per 1,000 marriages",263,units ,0,v42140471,12.34,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1970,"Rate per 1,000 marriages",263,units ,0,v42140472,12.35,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1969,"Rate per 1,000 marriages",263,units ,0,v42140473,12.36,5.92,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1968,"Rate per 1,000 marriages",263,units ,0,v42140474,12.37,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1967,"Rate per 1,000 marriages",263,units ,0,v42140475,12.38,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1966,"Rate per 1,000 marriages",263,units ,0,v42140476,12.39,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1965,"Rate per 1,000 marriages",263,units ,0,v42140477,12.4,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1964,"Rate per 1,000 marriages",263,units ,0,v42140478,12.41,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1963,"Rate per 1,000 marriages",263,units ,0,v42140479,12.42,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1962,"Rate per 1,000 marriages",263,units ,0,v42140480,12.43,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1961,"Rate per 1,000 marriages",263,units ,0,v42140481,12.44,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1960,"Rate per 1,000 marriages",263,units ,0,v42140482,12.45,9.35,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1959,"Rate per 1,000 marriages",263,units ,0,v42140483,12.46,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1958,"Rate per 1,000 marriages",263,units ,0,v42140484,12.47,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1957,"Rate per 1,000 marriages",263,units ,0,v42140485,12.48,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1956,"Rate per 1,000 marriages",263,units ,0,v42140486,12.49,0,,,,2
+2004,"Yukon, place of occurrence",2016A000260,1955,"Rate per 1,000 marriages",263,units ,0,v42140487,12.5,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,2004,"Rate per 1,000 marriages",263,units ,0,v42140488,13.1,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,2003,"Rate per 1,000 marriages",263,units ,0,v42140489,13.2,4.85,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,2002,"Rate per 1,000 marriages",263,units ,0,v42140490,13.3,9.26,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,2001,"Rate per 1,000 marriages",263,units ,0,v42140491,13.4,20.58,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,2000,"Rate per 1,000 marriages",263,units ,0,v42140492,13.5,22.03,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1999,"Rate per 1,000 marriages",263,units ,0,v42140493,13.6,23.81,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1998,"Rate per 1,000 marriages",263,units ,0,v42140494,13.7,18.78,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1997,"Rate per 1,000 marriages",263,units ,0,v42140495,13.8,23.81,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1996,"Rate per 1,000 marriages",263,units ,0,v42140496,13.9,9.71,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1995,"Rate per 1,000 marriages",263,units ,0,v42140497,13.1,13.76,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1994,"Rate per 1,000 marriages",263,units ,0,v42140498,13.11,20.75,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1993,"Rate per 1,000 marriages",263,units ,0,v42140499,13.12,41.67,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1992,"Rate per 1,000 marriages",263,units ,0,v42140500,13.13,9.57,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1991,"Rate per 1,000 marriages",263,units ,0,v42140501,13.14,13.95,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1990,"Rate per 1,000 marriages",263,units ,0,v42140502,13.15,30.7,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1989,"Rate per 1,000 marriages",263,units ,0,v42140503,13.16,17.94,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1988,"Rate per 1,000 marriages",263,units ,0,v42140504,13.17,22.52,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1987,"Rate per 1,000 marriages",263,units ,0,v42140505,13.18,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1986,"Rate per 1,000 marriages",263,units ,0,v42140506,13.19,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1985,"Rate per 1,000 marriages",263,units ,0,v42140507,13.2,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1984,"Rate per 1,000 marriages",263,units ,0,v42140508,13.21,7.72,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1983,"Rate per 1,000 marriages",263,units ,0,v42140509,13.22,10.49,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1982,"Rate per 1,000 marriages",263,units ,0,v42140510,13.23,11.54,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1981,"Rate per 1,000 marriages",263,units ,0,v42140511,13.24,3.55,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1980,"Rate per 1,000 marriages",263,units ,0,v42140512,13.25,7.43,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1979,"Rate per 1,000 marriages",263,units ,0,v42140513,13.26,7.22,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1978,"Rate per 1,000 marriages",263,units ,0,v42140514,13.27,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1977,"Rate per 1,000 marriages",263,units ,0,v42140515,13.28,3.76,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1976,"Rate per 1,000 marriages",263,units ,0,v42140516,13.29,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1975,"Rate per 1,000 marriages",263,units ,0,v42140517,13.3,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1974,"Rate per 1,000 marriages",263,units ,0,v42140518,13.31,3.91,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1973,"Rate per 1,000 marriages",263,units ,0,v42140519,13.32,8.85,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1972,"Rate per 1,000 marriages",263,units ,0,v42140520,13.33,3.94,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1971,"Rate per 1,000 marriages",263,units ,0,v42140521,13.34,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1970,"Rate per 1,000 marriages",263,units ,0,v42140522,13.35,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1969,"Rate per 1,000 marriages",263,units ,0,v42140523,13.36,4.22,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1968,"Rate per 1,000 marriages",263,units ,0,v42140524,13.37,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1967,"Rate per 1,000 marriages",263,units ,0,v42140525,13.38,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1966,"Rate per 1,000 marriages",263,units ,0,v42140526,13.39,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1965,"Rate per 1,000 marriages",263,units ,0,v42140527,13.4,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1964,"Rate per 1,000 marriages",263,units ,0,v42140528,13.41,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1963,"Rate per 1,000 marriages",263,units ,0,v42140529,13.42,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1962,"Rate per 1,000 marriages",263,units ,0,v42140530,13.43,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1961,"Rate per 1,000 marriages",263,units ,0,v42140531,13.44,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1960,"Rate per 1,000 marriages",263,units ,0,v42140532,13.45,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1959,"Rate per 1,000 marriages",263,units ,0,v42140533,13.46,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1958,"Rate per 1,000 marriages",263,units ,0,v42140534,13.47,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1957,"Rate per 1,000 marriages",263,units ,0,v42140535,13.48,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1956,"Rate per 1,000 marriages",263,units ,0,v42140536,13.49,0,,,,2
+2004,"Northwest Territories and Nunavut, place of occurrence",,1955,"Rate per 1,000 marriages",263,units ,0,v42140537,13.5,0,,,,2
